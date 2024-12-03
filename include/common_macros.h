@@ -1,0 +1,1 @@
+#define SIZE_OF(array) (sizeof((array))/sizeof((array)[0]))
